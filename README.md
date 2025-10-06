@@ -27,5 +27,4 @@ Homepage: Lists all blog posts.
 New Post: /new-post to create a new blog entry.  
 Edit Post: /edit-post/<post_id> to update a post.  
 Delete Post: /delete/<post_id> removes a post.  
-View Post: /read?post_id=<id> displays a post in full.
-
+View Post: /read?post_id=<id> displays a post in full.  

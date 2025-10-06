@@ -22,9 +22,4 @@ A modern Flask-based blogging platform featuring CKEditor integration, Bootstrap
 
 ---
 
-## 📦 Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/flaskblogplus.git
-   cd flaskblogplus
 
